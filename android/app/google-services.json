@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "411388009687",
+    "project_id": "discare-917f9",
+    "storage_bucket": "discare-917f9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411388009687:android:a9f0d949f4ba6a50a4e492",
+        "android_client_info": {
+          "package_name": "com.example.mira_newproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2Ysjl2xX_jJaSQ9tc4YC1mG5zEhJqZv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
